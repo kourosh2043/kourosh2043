@@ -32,7 +32,7 @@ I also use pyTelegramBotAPI to build Telegram bots in Python.
 
 ## Selected projects
 
-### [Manirou Engineering](https://github.com/kourosh2043/Manira_Project)
+### [Manirou Engineering]([https://github.com/kourosh2043/Manira_Project](https://github.com/kourosh2043/Manirou_Project))
 
 A corporate website for an engineering company in electrical power infrastructure. The frontend is custom HTML, CSS, and JavaScript. A Django backend handles the product catalog, categories, Django Admin tools, and contact messages.
 
@@ -45,7 +45,7 @@ A Django anime site. Episodes are managed through Django Admin, and the video fi
 
 Technologies: Python · Django · HTML · CSS · JavaScript
 
-### [PrinterLand](https://github.com/kourosh2043/PrinterLand_Project)
+### [PrinterLand]([https://github.com/kourosh2043/PrinterLand_Project](https://github.com/kourosh2043/PrinterLand_Project))
 
 A frontend concept for a 3D-printing studio's website, with a responsive landing page, a portfolio, an FAQ, and customer order and contact flows.
 
