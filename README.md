@@ -1,14 +1,11 @@
 # Hi, I'm Kourosh
 
-I'm a developer who builds websites and likes trying out new technologies. My main direction is **full-stack web development**, with a current focus on the **frontend** and on **Python-based backends**.
+I build websites and like trying out new technologies. I'm aiming at full-stack web development, and right now I'm focused on the frontend and on Python backends.
 
 ## About me
 
-- I'm interested in frontend and full-stack web development.
 - I like designing clean, responsive interfaces that are easy to use.
-- I'm currently focusing on **JavaScript** and **Django**.
-- I use **Python** for backend development and small applications.
-- I have also worked with **PHP** in a web project.
+- I use Python for backend work and small applications, and I've used PHP in one web project.
 - I learn by building projects and improving them step by step.
 
 ## Technologies and tools
@@ -31,34 +28,34 @@ I'm a developer who builds websites and likes trying out new technologies. My ma
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
 </p>
 
-**Other tools and libraries:** pyTelegramBotAPI (Python Telegram bot development).
+I also use pyTelegramBotAPI to build Telegram bots in Python.
 
 ## Selected projects
 
-### Maniro Engineering
+### [Manirou Engineering](https://github.com/kourosh2043/Manira_Project)
 
-A corporate website for an engineering company in the electrical power infrastructure field. It pairs a custom HTML, CSS, and JavaScript frontend with a Django backend that handles the product catalog, category management, Django Admin tools, and a contact-message workflow.
+A corporate website for an engineering company in electrical power infrastructure. The frontend is custom HTML, CSS, and JavaScript. A Django backend handles the product catalog, categories, Django Admin tools, and contact messages.
 
-**Technologies:** HTML · CSS · JavaScript · Python · Django  
-**Status:** In development
+Technologies: HTML · CSS · JavaScript · Python · Django  
+Status: in development
 
-### YUMIRA
+### [YUMIRA](https://github.com/kourosh2043/YUMIRA_Project)
 
-A Django-based anime platform. Episodes are managed through Django Admin, and the video files live in the media directory. Playback uses an HTML5 video player. Subtitles are embedded in each video file, and each episode has a single video quality.
+A Django anime site. Episodes are managed through Django Admin, and the video files live in the media directory. Playback uses an HTML5 video player. Subtitles are embedded in each video file, and each episode has a single video quality.
 
-**Technologies:** Python · Django · HTML · CSS · JavaScript
+Technologies: Python · Django · HTML · CSS · JavaScript
 
-### PrinterLand
+### [PrinterLand](https://github.com/kourosh2043/PrinterLand_Project)
 
-A frontend website concept for a 3D-printing studio, with a responsive landing page, a portfolio, an FAQ, and customer order and contact flows.
+A frontend concept for a 3D-printing studio's website, with a responsive landing page, a portfolio, an FAQ, and customer order and contact flows.
 
-**Technologies:** HTML · CSS · JavaScript
+Technologies: HTML · CSS · JavaScript
 
-### AbanHesab
+### [AbanHesab](https://github.com/kourosh2043/Abanhesab_Project)
 
-A web project that uses PHP in its stack.
+A web project built with PHP.
 
-**Technology:** PHP
+Technology: PHP
 
 ## Currently learning
 
@@ -69,12 +66,13 @@ A web project that uses PHP in its stack.
 
 ## Interests
 
-- Frontend development and UI design
-- Backend development and web application architecture
-- Responsive interfaces and web animations
-- Python applications and automation
-- Building useful projects
+Frontend development and UI design, backend and web application architecture, responsive interfaces and web animations, and Python applications and automation. Mostly I like building projects that are useful.
 
 ## My goal
 
-I want to become a capable **full-stack developer**. I'm working toward it by building real applications and strengthening my fundamentals and problem-solving.
+I want to become a capable full-stack developer, and I'm working on it by building real applications and strengthening my fundamentals and problem-solving.
+
+## Contact
+
+- Email: [abasikourosh72@gmail.com](mailto:abasikourosh72@gmail.com)
+- Telegram: [@kourosh2087](https://t.me/kourosh2087)
