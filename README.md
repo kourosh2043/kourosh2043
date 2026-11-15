@@ -34,28 +34,28 @@ I also use pyTelegramBotAPI to build Telegram bots in Python.
 
 ### [Manirou Engineering](https://github.com/kourosh2043/Manirou_Project)
 
-A corporate website for an engineering company in electrical power infrastructure. The frontend is custom HTML, CSS, and JavaScript. A Django backend handles the product catalog, categories, Django Admin tools, and contact messages.
+A modern, responsive Persian (RTL) corporate website demo for an engineering company in power transmission lines, high-voltage substations, and electrical infrastructure. It is a frontend project with no backend.
 
-Technologies: HTML · CSS · JavaScript · Python · Django  
+Technologies: HTML · CSS · JavaScript  
 Status: in development
 
 ### [YUMIRA](https://github.com/kourosh2043/YUMIRA_Project)
 
-A Django anime site. Episodes are managed through Django Admin, and the video files live in the media directory. Playback uses an HTML5 video player. Subtitles are embedded in each video file, and each episode has a single video quality.
+A Persian RTL anime site built with Django. Episodes are managed through Django Admin, and the video files live in the media directory. Playback uses a custom JavaScript player on top of the HTML5 video tag. Subtitles are embedded in each video file, and each episode has a single video quality. It is a learning project, and the anime in the sample data are made up.
 
-Technologies: Python · Django · HTML · CSS · JavaScript
+Technologies: Python · Django · HTML · CSS · JavaScript · SQLite
 
 ### [PrinterLand](https://github.com/kourosh2043/PrinterLand_Project)
 
-A frontend concept for a 3D-printing studio's website, with a responsive landing page, a portfolio, an FAQ, and customer order and contact flows.
+A Persian RTL website for a custom 3D-printing business, built with vanilla HTML, CSS, and JavaScript. It has a responsive landing page, a portfolio, an FAQ, a JSON product catalog, and dark and light themes. Customers send orders through Telegram or Rubika.
 
 Technologies: HTML · CSS · JavaScript
 
 ### [AbanHesab](https://github.com/kourosh2043/Abanhesab_Project)
 
-A web project built with PHP.
+A bilingual (Persian/English) website demo for a fictional audit firm, with a blog, a contact form, a careers questionnaire, and a PHP/MySQL admin panel. All data is fictional.
 
-Technology: PHP
+Technologies: PHP · MySQL
 
 ## Currently learning
 
